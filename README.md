@@ -93,7 +93,9 @@ curl localhost:8080/users
 ---
 
 ### 🗄️ Фрагмент схемы БД
-![Screenshot](./screenshots/Screenshot_7.png)
+
+<img width="1422" height="798" alt="image" src="https://github.com/user-attachments/assets/aef45f4a-3de8-40f5-b9bb-c3e50c5ed7b4" />
+
 
 ---
 
