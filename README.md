@@ -46,7 +46,8 @@ curl -X POST localhost:8080/users \
 -H "Content-Type: application/json" \
 -d '{"name":"Daniel", "email":"daniel@example.com"}'
 ```
-![Screenshot](./screenshots/Screenshot_1.png)
+<img width="1394" height="882" alt="image" src="https://github.com/user-attachments/assets/7d5f3cdb-1aaf-48d3-b429-67be526fa7b7" />
+
 
 ---
 
@@ -56,7 +57,8 @@ curl -X POST localhost:8080/notes \
 -H "Content-Type: application/json" \
 -d '{"title":"Моя заметка", "content":"Заметка заметка какая замечательная заметка", "userId":7, "tags":["go", "gorm"]}'
 ```
-![Screenshot](./screenshots/Screenshot_2.png)
+<img width="1398" height="1330" alt="image" src="https://github.com/user-attachments/assets/334721de-45af-495e-8613-28a49880de54" />
+
 
 ---
 
@@ -64,7 +66,8 @@ curl -X POST localhost:8080/notes \
 ```
 curl localhost:8080/notes/3
 ```
-![Screenshot](./screenshots/Screenshot_3.png)
+<img width="1388" height="1488" alt="image" src="https://github.com/user-attachments/assets/8010fd34-2dd4-46cc-bda9-f998a2b59132" />
+
 
 ---
 
@@ -72,7 +75,8 @@ curl localhost:8080/notes/3
 ```
 curl localhost:8080/notes
 ```
-![Screenshot](./screenshots/Screenshot_4.png)
+<img width="1388" height="1478" alt="image" src="https://github.com/user-attachments/assets/eb0740f0-ff8d-4d4c-bea3-b82025e96185" />
+
 
 ---
 
@@ -80,7 +84,8 @@ curl localhost:8080/notes
 ```
 curl localhost:8080/tags
 ```
-![Screenshot](./screenshots/Screenshot_5.png)
+<img width="1390" height="1044" alt="image" src="https://github.com/user-attachments/assets/aa1818e0-62da-41b4-902a-dd6aaa93cb14" />
+
 
 ---
 
@@ -88,7 +93,8 @@ curl localhost:8080/tags
 ```
 curl localhost:8080/users
 ```
-![Screenshot](./screenshots/Screenshot_6.png)
+<img width="1390" height="1484" alt="image" src="https://github.com/user-attachments/assets/6188bdf7-920a-40af-93e7-b6fb410dea4b" />
+
 
 ---
 
